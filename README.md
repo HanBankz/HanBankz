@@ -2,7 +2,7 @@
 
 Flutter/Dart developer building full-stack mobile apps — Android & iOS.
 
-**Stack:** Flutter, Dart, Firebase, Supabase, REST APIs, postGres, Note.js
+**Stack:** Flutter, Dart, Firebase, Supabase, REST APIs, postGres, Node.js
 
 ### Projects
 - 🤖 [Xerox AI](https://github.com/HanBankz/Xerox-Ai) — AI-powered chat app with multi-persona tools, Firebase + Claude/OpenAI API
